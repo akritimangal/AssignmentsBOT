@@ -3,6 +3,8 @@
 1.1	Introduction
 
 Our bot is an automated sorting and email generation technology which is created in order to solve the tedious task of filtering large excel sheets and sending documents via email by automation.
+PROBLEM STATEMENT: Develop a bot to send weak assignment through email to each student individually. Also send the common assignment (DSA-Assignment MTT-1.pdf And DSA-Assignment MTT-2.pdf) to all student from the list.
+
 
 1.2	Precautions
 
